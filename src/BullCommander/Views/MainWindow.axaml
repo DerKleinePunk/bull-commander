@@ -18,8 +18,12 @@
              to set the actual DataContext for runtime, set the DataContext property in code (look at App.axaml.cs) -->
         <vm:MainWindowViewModel/>
     </Design.DataContext>
-    <Grid>
+    <Panel Margin="40">
+        <Button HorizontalAlignment="Right" VerticalAlignment="Top"
+                Command="{Binding AddServerCommand}">
+            <PathIcon Data="{StaticResource StoreMicrosoftRegular}" />
+        </Button>
         <TextBlock Text="{x:Static lang:Resources.GreetingText}"/>
         <TextBlock Text="{Binding Greeting}" HorizontalAlignment="Center" VerticalAlignment="Center"/>
-    </Grid>
+    </Panel>
 </Window>

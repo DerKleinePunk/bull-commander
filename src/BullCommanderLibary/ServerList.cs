@@ -1,4 +1,4 @@
-﻿namespace BullCommanderLibary
+﻿namespace BullCommanderLibrary
 {
     /// <summary>
     /// 

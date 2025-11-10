@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.36623.8 d17.14
+VisualStudioVersion = 17.14.36623.8
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullCommander", "src\BullCommander\BullCommander.csproj", "{2DA13CCD-0152-DA79-63D9-D1817BA784C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullCommanderLibary", "src\BullCommanderLibary\BullCommanderLibary.csproj", "{5DF6DCD6-1E31-4EEB-9518-98D4268327F1}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullCommanderLibrary", "src\BullCommanderLibary\BullCommanderLibrary.csproj", "{5DF6DCD6-1E31-4EEB-9518-98D4268327F1}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BullCommander.Tests", "src\BullCommanderTests\BullCommander.Tests.csproj", "{608F405D-B52F-4127-A6FB-B05CE1376EC4}"
 EndProject

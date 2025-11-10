@@ -11,4 +11,8 @@
     <BaseOutputPath>..\..\build\</BaseOutputPath>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Interfaces\" />
+  </ItemGroup>
+
 </Project>

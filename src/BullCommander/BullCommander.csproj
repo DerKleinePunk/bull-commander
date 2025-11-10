@@ -38,7 +38,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BullCommanderLibary\BullCommanderLibary.csproj" />
+    <ProjectReference Include="..\BullCommanderLibary\BullCommanderLibrary.csproj" />
   </ItemGroup>
 
   <ItemGroup>
